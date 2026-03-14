@@ -43,8 +43,4 @@ iTask is a sleek, modern Todo application designed to help you manage your daily
 
    #SCREENSHOT
    ![Home Screen](screenshot.png)
-
-
-
-
    
